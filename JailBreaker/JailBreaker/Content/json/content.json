@@ -1,0 +1,19 @@
+﻿[{
+	"location": {
+		"stateCode": "NY",
+		"latitude": 40.7501753,
+		"longitude": -73.9194097,
+		"displayAddress": " 35-51 81st St, Jackson Heights, NY 11372"
+	},
+	"name": "Jackson Heights Library",
+	"phone": "(718) 764-7432"
+},{
+	"location": {
+		"stateCode": "NY",
+		"latitude": 40.649387,
+		"longitude": -73.949432,
+		"displayAddress": "2834 Coney Island Ave, Brooklyn, NY, 11235"
+	},
+	"name": "XYZ Library",
+	"phone": "(212) 202-5555"
+}]
